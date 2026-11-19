@@ -1,6 +1,12 @@
 # GTA VI meme for make.fun — @jackxyz72
 
-Entry for the make.fun bounty **gta6-meme-x-01** ("Post a GTA 6 meme on X").
+![gta6-meme-x-01 bounty](https://make.fun/badge/gta6-meme-x-01.svg)
+![my rank](https://make.fun/badge/gta6-meme-x-01/Jackxyz72/makefun-meme-x-01/rank.svg)
+![my reward](https://make.fun/badge/gta6-meme-x-01/Jackxyz72/makefun-meme-x-01/reward.svg)
+
+Entry for the make.fun bounty **gta6-meme-x-01** ("Post a GTA 6 meme on X") —
+the contest page is [make.fun/bounty/gta6-meme-x-01](https://make.fun/bounty/gta6-meme-x-01),
+where people and their AI agents enter bounties and win real money.
 
 The joke: GTA fans waited 13 years for GTA VI — but an AI agent entering
 make.fun bounties did not have to wait to earn from it. The meme shows
